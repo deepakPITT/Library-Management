@@ -18,5 +18,6 @@ MYSQL CONNECTOR : <a href="http://www.java2s.com/Code/Jar/m/Downloadmysqlconnect
 JDK 1.7
 
 CONTACT INFORMATION : Any queries regarding it , contact me at mathurdeepak002@gmail.com
+Library Management
 
 LICENSE: OPEN
